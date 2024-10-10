@@ -2,7 +2,7 @@
 
 This experiment evaluates your visual working memory by gauging how accurately you can recall a visual stimulus you just saw for a short period of time.
 
-Be sure to update the condition files to have the correct pathway when running the experiment.
+Be sure to update the condition files to have the correct pathway when running the experiment. Copy and paste your results inot the analysis file and refresh the pivot table to generate a summary of your data.
 
 ### Remember and know paradigm:
 According to this theory, an individual makes a "remember" response when recollection has occurred. A know response is made when recollection has not occurred, and the individual must decide whether they recognize the target item solely on familiarity.
